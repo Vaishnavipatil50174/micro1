@@ -1,0 +1,54 @@
+.first{
+    background:#FED8B1;
+    display:grid;
+    grid-template-columns:auto auto;
+    height: 300px;
+    justify-content: center;
+  }
+  .firsto{
+    
+  }
+  
+  .second{
+    background:black;
+    display:grid;
+    grid-template-columns:auto auto;
+    height:100px;
+    font-size: 13px;
+
+    
+  }
+  .secondo{
+    color:white;
+    text-align:center;
+    
+    
+    
+  }
+  .secondot{
+    color:white;
+    text-align:center;
+    
+    
+  }
+  ul{
+    list-style-type: none;
+    padding: 0; 
+    margin: 0;
+  }
+  
+  .button1{
+    color:white;
+  
+  text-align: center;
+  font-family: Inter;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  background-color:black;
+  line-height: normal;
+  }
+  
+  .men{
+    background-color: #FED8B1;
+  }
